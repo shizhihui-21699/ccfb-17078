@@ -1,0 +1,7 @@
+[debug] Running TaskDef(recprivacy.ConstraintSuite, CustomFingerprint{suite='munit.Suite'}, false, [SuiteSelector])
+[debug] Running TaskDef(recprivacy.RankerSuite, CustomFingerprint{suite='munit.Suite'}, false, [SuiteSelector])
+[debug] Summary for munit not available.
+[info] Passed: Total 17, Failed 0, Errors 0, Passed 17
+[debug] Passed tests:
+[debug] 	recprivacy.RankerSuite
+[debug] 	recprivacy.ConstraintSuite

@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 42 products, 7 sources, 2 libraries
+[debug] current source = Set(${BASE}/src/main/scala/recprivacy/constraints.scala, ${BASE}/src/main/scala/recprivacy/Main.scala, ${BASE}/src/main/scala/recprivacy/features.scala, ${BASE}/src/main/scala/recprivacy/ranker.scala, ${BASE}/src/main/scala/recprivacy/verdict.scala, ${BASE}/src/main/scala/recprivacy/policy.scala, ${BASE}/src/main/scala/recprivacy/model.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes
